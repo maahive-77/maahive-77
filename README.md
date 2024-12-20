@@ -1,14 +1,9 @@
 # maahi
 my personal repository
 
-
-
 <div align="center">
   <img height="200" src="https://tse3.mm.bing.net/th?id=OIP.um19N_oeTKlmrHMov0O5bAHaEH&pid=Api&P=0&h=180"  />
 </div>
-
-
-
 ###
 
 <h1 align="left">Hey 👋 What's up?</h1>
@@ -17,17 +12,11 @@ my personal repository
 || Proficient in C \ C++ ||
 ###
 
-
 ## About Me
 ---
 ###
-
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">✨ Creating bugs since 2023<br>📚 Currently learning: Data Structures, Algorithms, and exploring Python and web development.<br>🎯 Goals: To become a skilled software developer and ace government IT job exams like Bank IT Officer.<br>🎲 Fun fact: I can spend hours debugging code only to realize I missed a semicolon. Classic C/C++ moment!<br>💡 Motivation: "Every great coder started as a beginner. Keep typing, keep learning, and turn your bugs into breakthroughs!"</p>
-
+###
 ###
 ## My Skills 💻
 ### Languages
