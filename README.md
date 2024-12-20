@@ -1,31 +1,25 @@
 # maahi
 my personal repository
-# Hi there, I'm Maahi Ve 👋
-"Second Year || BCA (Bachelor of Computer Applications) Student"  
-|| Proficient in C \ C++ ||
 
-## My Skills 💻
-### Languages
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## About Me
-![Coding](https://your-image-url.com)
-
----
 
 <div align="center">
   <img height="200" src="https://tse3.mm.bing.net/th?id=OIP.um19N_oeTKlmrHMov0O5bAHaEH&pid=Api&P=0&h=180"  />
 </div>
 
+
+
 ###
 
 <h1 align="left">Hey 👋 What's up?</h1>
-
+<p align="left">My name is Mahendra Kumar and I'm a BCA Student, from Patna</p>
+"Second Year || BCA (Bachelor of Computer Applications) Student"  
+|| Proficient in C \ C++ ||
 ###
 
-<p align="left">My name is Mahendra Kumar and I'm a BCA Student, from Patna</p>
 
+## About Me
+---
 ###
 
 <h2 align="left">About me</h2>
@@ -35,7 +29,8 @@ my personal repository
 <p align="left">✨ Creating bugs since 2023<br>📚 Currently learning: Data Structures, Algorithms, and exploring Python and web development.<br>🎯 Goals: To become a skilled software developer and ace government IT job exams like Bank IT Officer.<br>🎲 Fun fact: I can spend hours debugging code only to realize I missed a semicolon. Classic C/C++ moment!<br>💡 Motivation: "Every great coder started as a beginner. Keep typing, keep learning, and turn your bugs into breakthroughs!"</p>
 
 ###
-
+## My Skills 💻
+### Languages
 <h2 align="left">I code with</h2>
 
 ###
