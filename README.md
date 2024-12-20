@@ -1,5 +1,19 @@
 # maahi
-my personal repository 
+my personal repository
+# Hi there, I'm Maahi Ve 👋
+"Second Year || BCA (Bachelor of Computer Applications) Student"  
+|| Proficient in C \ C++ ||
+
+## My Skills 💻
+### Languages
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## About Me
+![Coding](https://your-image-url.com)
+
+---
+
 <div align="center">
   <img height="200" src="https://tse3.mm.bing.net/th?id=OIP.um19N_oeTKlmrHMov0O5bAHaEH&pid=Api&P=0&h=180"  />
 </div>
