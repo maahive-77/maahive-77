@@ -14,7 +14,7 @@
 
 
 ### 🌐 Connect with Me  
-
+---
 <p align="center">
   <a href="https://www.linkedin.com/in/mahendra-kumar-1401s/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -42,7 +42,7 @@
     
   </a>
 </p>
-###
+
 <!-- <div align="left">
   <a href="https://www.linkedin.com/in/mahendra-kumar-1401s" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
@@ -62,8 +62,8 @@
 </div>
 -->
 
-<h2 align="left">I code💻 with</h2>
-###
+## <h2 align="left">I code💻 with</h2>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -93,7 +93,6 @@
  </p>
 
 <br>
-
 
 <!-- <div align="center">
   <a href="https://github.com/maahive-77">
