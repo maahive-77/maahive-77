@@ -57,9 +57,7 @@ my personal repository
 </div>
 
 ###
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maahive-77&show_icons=true&theme=dark&hide_title=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maahive-77&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maahive-77&show_icons=true&theme=dark&hide_title=false) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maahive-77&layout=compact&theme=dark)
 
 ### Hi, I'm maahi 👩‍💻
 
