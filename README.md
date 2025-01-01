@@ -56,9 +56,11 @@ my personal repository
   </a>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="first-stats.png" alt="First Stats" style="width: 400px;">
-  <img src="second-stats.png" alt="Second Stats" style="width: 400px;">
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=maahive-77&show_icons=true&theme=dark&hide_title=false.png" alt="First Stats">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahive-77&&layout=compact&theme=dark.png" alt="Second Stats">
+</p>
+
 ###
  ## <h2 align="left">Github Stats📈:</h2>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maahive-77&show_icons=true&theme=dark&hide_title=false) 
@@ -72,7 +74,7 @@ my personal repository
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maahive-77&theme=radical)
 
-</div>
+
 
 <div align="left">
 </div>
