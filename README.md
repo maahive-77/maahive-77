@@ -60,15 +60,20 @@ my personal repository
  ## <h2 align="left">Github Stats📈:</h2>
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maahive-77&show_icons=true&theme=radical&hide_border=true)
-### My Programming Language
-![My Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=maahive-77&show_icons=true&theme=radical&hide_border=true)
+<div style="text-align: center;">
+  <h3>My Programming Language</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahive-77&show_icons=true&theme=radical&hide_border=true" alt="My Programming Language">
+</div>
+
 
 
 ## Hi, I'm maahi 👩‍💻
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maahive-77&show_icons=true&theme=radical)
-### My Programming Language
-![My Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=maahive-77&show_icons=true&theme=radical&hide_border=true)
+<div style="text-align: center;">
+  <h3>My Programming Language</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahive-77&show_icons=true&theme=radical&hide_border=true" alt="My Programming Language">
+</div>
 
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=maahive-77&theme=radical&hide_border=true)
