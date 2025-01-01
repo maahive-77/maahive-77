@@ -56,15 +56,12 @@ my personal repository
   </a>
 </div>
 
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=maahive-77&show_icons=true&theme=dark&hide_title=false.png" alt="First Stats">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahive-77&&layout=compact&theme=dark.png" alt="Second Stats">
-</p>
-
 ###
  ## <h2 align="left">Github Stats📈:</h2>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maahive-77&show_icons=true&theme=dark&hide_title=false) 
 ![My Programming Language ](https://github-readme-stats.vercel.app/api/top-langs/?username=maahive-77&&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maahive-77&show_icons=true&theme=radical&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=maahive-77&theme=radical&hide_border=true)
 
 
 ## Hi, I'm maahi 👩‍💻
