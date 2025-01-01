@@ -56,24 +56,36 @@ my personal repository
   </a>
 </div>
 
-###
- ## <h2 align="left">Github Stats📈:</h2>
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maahive-77&show_icons=true&theme=radical&hide_border=true)
-<div style="text-align: center;">
-  <h3>My Programming Language</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahive-77&show_icons=true&theme=radical&hide_border=true" alt="My Programming Language">
-</div>
+ ## Github Stats📈:
+<p align="center">
+    <a href="https://github.com/maahive-77">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maahive-77&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maahive-77&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
 
+
+
+ <p align="center">
+   <a href="https://github.com/maahive-77"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=maahive-77&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
+   </a>  
+ </p>
+
+<br>
+
+#
+
+<!-- <div align="center">
+  <a href="https://github.com/maahive-77">
+    <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
+  </a>
+ </div> -->
 
 
 ## Hi, I'm maahi 👩‍💻
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maahive-77&show_icons=true&theme=radical)
-<div style="text-align: center;">
-  <h3>My Programming Language</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahive-77&show_icons=true&theme=radical&hide_border=true" alt="My Programming Language">
-</div>
 
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=maahive-77&theme=radical&hide_border=true)
