@@ -18,26 +18,6 @@ my personal repository
 <p align="left">✨ Creating bugs since 2023<br>📚 Currently learning: Data Structures, Algorithms, and exploring Python and web development.<br>🎯 Goals: To become a skilled software developer and ace government IT job exams like Bank IT Officer.<br>🎲 Fun fact: I can spend hours debugging code only to realize I missed a semicolon. Classic C/C++ moment!<br>💡 Motivation: "Every great coder started as a beginner. Keep typing, keep learning, and turn your bugs into breakthroughs!"</p>
 
 
-## My Skills 💻
-### Languages
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo"  />
-</div>
-
-
-
 ### 🌐 Connect with Me  
 
 <p align="center">
@@ -86,6 +66,20 @@ my personal repository
   </a>
 </div>
 -->
+
+<h2 align="left">I code💻 with</h2>
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo"  />
+</div>
 
  ## Github Stats📈:
 <p align="center">
