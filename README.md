@@ -60,13 +60,16 @@ my personal repository
  ## <h2 align="left">Github Stats📈:</h2>
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maahive-77&show_icons=true&theme=radical&hide_border=true)
-![My Programming Language ](https://github-readme-stats.vercel.app/api/top-langs/?username=maahive-77&show_icons=true&theme=radical&hide_border=true)
+### My Programming Language
+![My Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=maahive-77&show_icons=true&theme=radical&hide_border=true)
 
 
 ## Hi, I'm maahi 👩‍💻
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maahive-77&show_icons=true&theme=radical)
-![My Programming Language ](https://github-readme-stats.vercel.app/api/top-langs/?username=maahive-77&layout=compact&theme=radical)
+### My Programming Language
+![My Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=maahive-77&show_icons=true&theme=radical&hide_border=true)
+
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=maahive-77&theme=radical&hide_border=true)
 
