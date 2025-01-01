@@ -73,7 +73,6 @@ my personal repository
  </p>
 
 <br>
-
 #
 
 <!-- <div align="center">
@@ -81,18 +80,6 @@ my personal repository
     <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
   </a>
  </div> -->
-
-
-## Hi, I'm maahi 👩‍💻
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maahive-77&show_icons=true&theme=radical)
-
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=maahive-77&theme=radical&hide_border=true)
-
-
-
-
 <div align="left">
 </div>
 
