@@ -9,7 +9,7 @@
 
 ## About Me
 ---
-✨ Creating bugs since 2023 - 📚 Currently learning: Data Structures, Algorithms, and exploring Python and web development.
+✨ Creating bugs since 2023 - 📚 Currently learning: C ,C++ ,Data Structures, Algorithms, and exploring Python and web development.
 - 🚀 **Frontend Developer** with a passion for building beautiful and responsive websites  
 - 🧩 **Problem Solver** enthusiastic about solving real-world problems
 - 🎯 **Goal:** To become a Full Stack Developer and apply my skills to impactful projects  
