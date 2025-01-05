@@ -9,14 +9,13 @@
 
 ## About Me
 ---
-###
-<p align="left">✨ Creating bugs since 2023<br>📚 Currently learning: Data Structures, Algorithms, and exploring Python and web development.
+✨ Creating bugs since 2023 - 📚 Currently learning: Data Structures, Algorithms, and exploring Python and web development.
 - 🚀 **Frontend Developer** with a passion for building beautiful and responsive websites  
 - 🧩 **Problem Solver** enthusiastic about solving real-world problems
 - 🎯 **Goal:** To become a Full Stack Developer and apply my skills to impactful projects  
 - 🎲 Fun fact: I can spend hours debugging code only to realize I missed a semicolon. Classic C/C++ moment!
-- 💡 Motivation: "Every great coder started as a beginner. Keep typing, keep learning, and turn your bugs into breakthroughs!"</p>
-
+- 💡 Motivation: "Every great coder started as a beginner. Keep typing, keep learning, and turn your bugs into breakthroughs!"
+---
 
 ### 🌐 Connect with Me  
 ---
