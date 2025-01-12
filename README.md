@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="left">Hey 👋 What's up?</h1>
-<p align="left">My name is Mahendra Kumar and I'm a BCA Stude, from Patna</p>
+<p align="left">My name is Mahendra Kumar and I'm a BCA Student</p>
 <!--"Second Year || BCA (Bachelor of Computer Applications) Student"  
 || Proficient in C \ C++ || -->
 
