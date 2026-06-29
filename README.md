@@ -3,20 +3,57 @@
 </div>
 
 
+<h1 align="left">Hi 👋, I'm Mahendra Kumar</h1>
 
-<h1 align="left">Hey 👋 What's up?</h1>
-<p align="left">My name is Mahendra Kumar and I'm a BCA Student</p>
-<!--"Second Year || BCA (Bachelor of Computer Applications) Student"  
-|| Proficient in C \ C++ || -->
+<h3 align="left">
+IT Support Engineer | CCNA Certified | BCA Graudate | Networking Enthusiast
+</h3>
+
+<p align="left">
+🎓 BCA <br>
+💻 IT Support, Linux, and Networking <br> <br>
+🚀 Building projects to improve my skills every day
+</p>
 
 ## About Me
 ---
-✨ Creating bugs since 2023 - 📚 Currently learning: C ,C++ ,Data Structures, Algorithms, and exploring Python and web development.
-- 🚀 **Frontend Developer** with a passion for building beautiful and responsive websites  
-- 🧩 **Problem Solver** enthusiastic about solving real-world problems
-- 🎯 **Goal:** To become a Full Stack Developer and apply my skills to impactful projects  
-- 🎲 Fun fact: I can spend hours debugging code only to realize I missed a semicolon. Classic C/C++ moment!
-- 💡 Motivation: "Every great coder started as a beginner. Keep typing, keep learning, and turn your bugs into breakthroughs!"
+ # 👋 Hi, I'm Mahendra
+
+💻 IT Support Engineer | CCNA Certified | Networking Enthusiast
+
+## 🚀 Currently Learning
+- C & C++
+- Data Structures & Algorithms
+- Python
+- Linux & System Administration
+
+## 🛠️ Skills
+- 🌐 Networking (CCNA)
+- 🖥️ HTML, CSS & JavaScript
+- 🔥 Firebase (Authentication, Firestore & Storage)
+- 🐧 Linux & Ubuntu
+- 🗄️ Git & GitHub
+- 📡 TCP/IP, VLANs, OSPF, EIGRP, ACLs, NAT, STP & Routing/Switching
+- 💻 Basic Python & C/C++
+
+## 🌱 Currently Exploring
+- Backend Development
+- Databases
+- REST APIs
+- Open Source Contributions
+- System Design
+
+## 🎯 Career Goal
+Become a Full Stack Software Engineer with strong Networking and Linux expertise, building scalable, secure, and impactful applications.
+
+## 📌 Interests
+- 💡 Problem Solving
+- 🌍 Open Source
+- 🔒 Cybersecurity
+- ☁️ Cloud & DevOps
+- 🤖 AI & Automation
+
+> **"Code. Learn. Build. Repeat."** 🚀
 ---
 
 ### 🌐 Connect with Me  
